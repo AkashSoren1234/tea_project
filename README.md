@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AkashSoren1234/SunnySide_WebPage](https://github.com/AkashSoren1234/SunnySide_WebPage)
-- Live Site URL: [https://akashsoren1234.github.io/SunnySide_WebPage/](https://akashsoren1234.github.io/SunnySide_WebPage/)
+- Solution URL: [https://github.com/AkashSoren1234/tea_project](https://github.com/AkashSoren1234/tea_project)
+- Live Site URL: [https://akashsoren1234.github.io/tea_project/](https://akashsoren1234.github.io/tea_project/)
 
 ## My process
 
